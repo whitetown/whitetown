@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[CV](https://docs.google.com/document/d/1krW4JwtY2OuE4l4-E4UxMk6T449TNvO6)
+[Contact Me](https://whitetown.state.sk)
