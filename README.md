@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Open to co-founding or joining as CTO. Early-stage startups, let's talk.
+
 [Contact Me](https://whitetown.state.sk)
