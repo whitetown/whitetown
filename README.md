@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Open to co-founding or joining as CTO. Early-stage startups, let's talk.
+### Get in touch
 
-[Contact Me](https://whitetown.state.sk)
+Have a project, a role, a question, looking for co-founder, or just want to say hi? Send me a message.
+
+[https://dev.whitetown.com](https://dev.whitetown.com)
